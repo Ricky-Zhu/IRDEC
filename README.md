@@ -7,8 +7,9 @@ This repository contains the official implementation for IRDEC introduced in the
 [Ruiqi Zhu](https://ricky-zhu.github.io/), [Siyuan Li](https://siyuanlee.github.io/), [Tianhong Dai](https://tianhongdai.xyz/),
 [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/), [Oya Celiktutan](https://nms.kcl.ac.uk/oya.celiktutan/)
 
-## Citation
-If you find our work useful in your research, please cite:
+[//]: # (## Citation)
+
+[//]: # (If you find our work useful in your research, please cite:)
 
 ## Environment
 - Python 3.7
