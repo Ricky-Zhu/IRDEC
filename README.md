@@ -2,7 +2,7 @@
 
 This repository contains the official implementation for IRDEC introduced in the following paper:
 
-[**Learning to Solve Tasks with Exploring Prior Behaviours**](https://arxiv.org/abs/2012.09811)
+**Learning to Solve Tasks with Exploring Prior Behaviours**
 
 [Ruiqi Zhu](https://ricky-zhu.github.io/), [Siyuan Li](https://siyuanlee.github.io/), [Tianhong Dai](https://tianhongdai.xyz/),
 [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/), [Oya Celiktutan](https://nms.kcl.ac.uk/oya.celiktutan/)
