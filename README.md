@@ -2,14 +2,11 @@
 
 This repository contains the official implementation for IRDEC introduced in the following paper:
 
-**Learning to Solve Tasks with Exploring Prior Behaviours**
+[**Learning to Solve Tasks with Exploring Prior Behaviours**](https://arxiv.org/abs/2307.02889)
 
 [Ruiqi Zhu](https://ricky-zhu.github.io/), [Siyuan Li](https://siyuanlee.github.io/), [Tianhong Dai](https://tianhongdai.xyz/),
 [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/), [Oya Celiktutan](https://nms.kcl.ac.uk/oya.celiktutan/)
 
-[//]: # (## Citation)
-
-[//]: # (If you find our work useful in your research, please cite:)
 
 ## Environment
 - Python 3.7
@@ -19,6 +16,14 @@ This repository contains the official implementation for IRDEC introduced in the
 - Install Mujoco and other required packages. 
 - Register Wandb account.
 - Clone this repository.
+
+## Troubleshooting
+if meet `RuntimeError: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED`, which is caused due to the cuda toolkit.
+
+```shell
+pip3 install torch==1.11.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+```
+
 
 ## Reproducing Ant-Umaze Experiment
 ```shell
