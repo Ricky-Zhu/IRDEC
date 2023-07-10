@@ -1,4 +1,4 @@
-# IRDEC
+# Learning to Solve Tasks with Exploring Prior Behaviours
 
 This repository contains the official implementation for IRDEC introduced in the following paper:
 
