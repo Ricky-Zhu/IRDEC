@@ -36,3 +36,15 @@ chmod +x ant_umaze_train.sh
 chmod +x ant_four_room_train.sh
 ./ant_four_room_train.sh
 ```
+
+## Citation
+If you find this code useful in your research, please consider citing:
+
+```
+@article{zhu2023learning,
+  title={Learning to Solve Tasks with Exploring Prior Behaviours},
+  author={Zhu, Ruiqi and Li, Siyuan and Dai, Tianhong and Zhang, Chongjie and Celiktutan, Oya},
+  journal={arXiv preprint arXiv:2307.02889},
+  year={2023}
+}
+```
